@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Podium",
+      "hasCanvas": false,
+      "bodyTextLen": 649,
+      "bodyTextHash": "79b9200a516df5a6eac9348051f60c7d3e17456a36789c1eefda036f5c5704e4",
+      "bodyTextPrefix": "Podium Standings COMMUNICATION SKILLS FOR BUSINESS Take the stan",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Podium",
+      "hasCanvas": false,
+      "bodyTextLen": 649,
+      "bodyTextHash": "79b9200a516df5a6eac9348051f60c7d3e17456a36789c1eefda036f5c5704e4",
+      "bodyTextPrefix": "Podium Standings COMMUNICATION SKILLS FOR BUSINESS Take the stan",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
